@@ -5,10 +5,7 @@ from array import array
 
 
 def MajoroMenor(edat):
-    if(edat>=18):
-        return True
-    else:
-        return False
+
 
 
 
