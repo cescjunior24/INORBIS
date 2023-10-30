@@ -4,7 +4,7 @@ from array import array
 
 
 def ImparellParell(num): #imparell=false #parell=true
-    return false
+    return False
 
 
 

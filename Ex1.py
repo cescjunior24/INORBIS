@@ -5,7 +5,7 @@ from array import array
 
 
 def MajoroMenor(edat):
-
+    return 0
 
 
 
@@ -21,7 +21,8 @@ def Corrector():
     else:
         print("TEST NOT OK")
 
-    
+
+Corrector()
 
     
 

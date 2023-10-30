@@ -23,4 +23,4 @@ def Corrector():
     else:
         print("TEST NOT OK")
 
-
+Corrector()

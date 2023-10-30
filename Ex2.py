@@ -1,7 +1,7 @@
 
 
 def suma100primersnums():
-
+    return 0
 
 
 
