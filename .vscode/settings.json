@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/francesc24/Desktop/INORBIS GIT/INORBIS/.venv/bin/python"
+    "python.pythonPath": "/Users/francesc24/Desktop/INORBIS GIT/INORBIS/.venv/bin/python",
+    "editor.fontFamily": "Cascadia Code"
 }
